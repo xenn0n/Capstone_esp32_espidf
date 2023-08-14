@@ -1,0 +1,507 @@
+
+
+read byte: 0xa5 0x5a
+Response Descriptor: 
+0xa5 | 0x5a | 0x54 | 0x00 | 0x00 | 0x40 | 0x82
+
+
+0x0 | 0x0 | 0
+0x0 | 0x0 | 0
+0x0 | 0x0 | 0
+0x0 | 0x0 | 0
+0x0 | 0x0 | 0
+0x0 | 0x0 | 0
+0x0 | 0x0 | 0
+0x0 | 0x0 | 0
+0x0 | 0x0 | 0
+0x0 | 0x0 | 0
+0x0 | 0x0 | 0
+0x0 | 0x0 | 0
+0x0 | 0x0 | 0
+0x0 | 0x0 | 0
+0xa | 0x5 | 55
+*****************Response Packet*****************
+Start angle (fix point number): 228
+start flag bit: 1
+Actual angle: 3.56
+0xe4 | 0xd9
+
+*****************CABIN 0*****************
+Distance 1: 0
+Distance 2: 0
+Angle 1: 0
+Angle 2: 45
+0x00 | 0x00 | 0x02 | 0x00 | 0xd0
+
+*****************CABIN 1*****************
+Distance 1: 0
+Distance 2: 0
+Angle 1: 0
+Angle 2: 0
+0x00 | 0x00 | 0x00 | 0x00 | 0x00
+
+*****************CABIN 2*****************
+Distance 1: 0
+Distance 2: 0
+Angle 1: 0
+Angle 2: 0
+0x00 | 0x00 | 0x00 | 0x00 | 0x00
+
+*****************CABIN 3*****************
+Distance 1: 0
+Distance 2: 0
+Angle 1: 0
+Angle 2: 0
+0x00 | 0x00 | 0x00 | 0x00 | 0x00
+
+*****************CABIN 4*****************
+Distance 1: 0
+Distance 2: 0
+Angle 1: 0
+Angle 2: 44
+0x00 | 0x00 | 0x02 | 0x00 | 0xc0
+
+*****************CABIN 5*****************
+Distance 1: 574
+Distance 2: 0
+Angle 1: 44
+Angle 2: 0
+0xfa | 0x08 | 0x00 | 0x00 | 0x0c
+
+*****************CABIN 6*****************
+Distance 1: 0
+Distance 2: 0
+Angle 1: 0
+Angle 2: 0
+0x00 | 0x00 | 0x00 | 0x00 | 0x00
+
+*****************CABIN 7*****************
+Distance 1: 564
+Distance 2: 0
+Angle 1: 43
+Angle 2: 0
+0xd2 | 0x08 | 0x00 | 0x00 | 0x0b
+
+*****************CABIN 8*****************
+Distance 1: 0
+Distance 2: 0
+Angle 1: 0
+Angle 2: 0
+0x00 | 0x00 | 0x00 | 0x00 | 0x00
+
+*****************CABIN 9*****************
+Distance 1: 0
+Distance 2: 548
+Angle 1: 0
+Angle 2: 42
+0x00 | 0x00 | 0x92 | 0x08 | 0xa0
+
+*****************CABIN 10*****************
+Distance 1: 538
+Distance 2: 0
+Angle 1: 42
+Angle 2: 0
+0x6a | 0x08 | 0x00 | 0x00 | 0x0a
+
+*****************CABIN 11*****************
+Distance 1: 534
+Distance 2: 0
+Angle 1: 42
+Angle 2: 0
+0x5a | 0x08 | 0x00 | 0x00 | 0x0a
+
+*****************CABIN 12*****************
+Distance 1: 0
+Distance 2: 0
+Angle 1: 0
+Angle 2: 0
+0x00 | 0x00 | 0x00 | 0x00 | 0x00
+
+*****************CABIN 13*****************
+Distance 1: 0
+Distance 2: 525
+Angle 1: 0
+Angle 2: 42
+0x00 | 0x00 | 0x36 | 0x08 | 0xa0
+
+*****************CABIN 14*****************
+Distance 1: 518
+Distance 2: 516
+Angle 1: 41
+Angle 2: 42
+0x1a | 0x08 | 0x12 | 0x08 | 0xa9
+
+*****************CABIN 15*****************
+Distance 1: 0
+Distance 2: 0
+Angle 1: 0
+Angle 2: 0
+0x00 | 0x00 | 0x00 | 0x00 | 0x00
+CheckSum: 55
+Data Verified!!!
+
+
+0xa | 0x5 | 4
+*****************Response Packet*****************
+Start angle (fix point number): 43
+start flag bit: 0
+Actual angle: 0.67
+0x2b | 0x04
+
+*****************CABIN 0*****************
+Distance 1: 511
+Distance 2: 0
+Angle 1: 41
+Angle 2: 0
+0xfe | 0x07 | 0x00 | 0x00 | 0x09
+
+*****************CABIN 1*****************
+Distance 1: 0
+Distance 2: 0
+Angle 1: 0
+Angle 2: 0
+0x00 | 0x00 | 0x00 | 0x00 | 0x00
+
+*****************CABIN 2*****************
+Distance 1: 0
+Distance 2: 503
+Angle 1: 0
+Angle 2: 41
+0x00 | 0x00 | 0xde | 0x07 | 0x90
+
+*****************CABIN 3*****************
+Distance 1: 498
+Distance 2: 0
+Angle 1: 41
+Angle 2: 0
+0xca | 0x07 | 0x00 | 0x00 | 0x09
+
+*****************CABIN 4*****************
+Distance 1: 495
+Distance 2: 493
+Angle 1: 40
+Angle 2: 41
+0xbe | 0x07 | 0xb6 | 0x07 | 0x98
+
+*****************CABIN 5*****************
+Distance 1: 492
+Distance 2: 488
+Angle 1: 42
+Angle 2: 41
+0xb2 | 0x07 | 0xa2 | 0x07 | 0x9a
+
+*****************CABIN 6*****************
+Distance 1: 484
+Distance 2: 482
+Angle 1: 41
+Angle 2: 40
+0x92 | 0x07 | 0x8a | 0x07 | 0x89
+
+*****************CABIN 7*****************
+Distance 1: 481
+Distance 2: 480
+Angle 1: 39
+Angle 2: 39
+0x86 | 0x07 | 0x82 | 0x07 | 0x77
+
+*****************CABIN 8*****************
+Distance 1: 478
+Distance 2: 477
+Angle 1: 39
+Angle 2: 39
+0x7a | 0x07 | 0x76 | 0x07 | 0x77
+
+*****************CABIN 9*****************
+Distance 1: 477
+Distance 2: 476
+Angle 1: 41
+Angle 2: 39
+0x76 | 0x07 | 0x72 | 0x07 | 0x79
+
+*****************CABIN 10*****************
+Distance 1: 475
+Distance 2: 474
+Angle 1: 40
+Angle 2: 41
+0x6e | 0x07 | 0x6a | 0x07 | 0x98
+
+*****************CABIN 11*****************
+Distance 1: 472
+Distance 2: 469
+Angle 1: 41
+Angle 2: 39
+0x62 | 0x07 | 0x56 | 0x07 | 0x79
+
+*****************CABIN 12*****************
+Distance 1: 468
+Distance 2: 467
+Angle 1: 39
+Angle 2: 38
+0x52 | 0x07 | 0x4e | 0x07 | 0x67
+
+*****************CABIN 13*****************
+Distance 1: 466
+Distance 2: 465
+Angle 1: 38
+Angle 2: 39
+0x4a | 0x07 | 0x46 | 0x07 | 0x76
+
+*****************CABIN 14*****************
+Distance 1: 465
+Distance 2: 464
+Angle 1: 39
+Angle 2: 40
+0x46 | 0x07 | 0x42 | 0x07 | 0x87
+
+*****************CABIN 15*****************
+Distance 1: 464
+Distance 2: 463
+Angle 1: 39
+Angle 2: 40
+0x42 | 0x07 | 0x3e | 0x07 | 0x87
+CheckSum: 4
+Data Verified!!!
+
+
+0xa | 0x5 | 138
+*****************Response Packet*****************
+Start angle (fix point number): 111
+start flag bit: 0
+Actual angle: 1.73
+0x6f | 0x08
+
+*****************CABIN 0*****************
+Distance 1: 462
+Distance 2: 461
+Angle 1: 41
+Angle 2: 38
+0x3a | 0x07 | 0x36 | 0x07 | 0x69
+
+*****************CABIN 1*****************
+Distance 1: 460
+Distance 2: 460
+Angle 1: 38
+Angle 2: 40
+0x32 | 0x07 | 0x32 | 0x07 | 0x86
+
+*****************CABIN 2*****************
+Distance 1: 459
+Distance 2: 459
+Angle 1: 38
+Angle 2: 40
+0x2e | 0x07 | 0x2e | 0x07 | 0x86
+
+*****************CABIN 3*****************
+Distance 1: 459
+Distance 2: 458
+Angle 1: 39
+Angle 2: 38
+0x2e | 0x07 | 0x2a | 0x07 | 0x67
+
+*****************CABIN 4*****************
+Distance 1: 457
+Distance 2: 457
+Angle 1: 39
+Angle 2: 39
+0x26 | 0x07 | 0x26 | 0x07 | 0x77
+
+*****************CABIN 5*****************
+Distance 1: 457
+Distance 2: 457
+Angle 1: 39
+Angle 2: 39
+0x26 | 0x07 | 0x26 | 0x07 | 0x77
+
+*****************CABIN 6*****************
+Distance 1: 457
+Distance 2: 457
+Angle 1: 38
+Angle 2: 39
+0x26 | 0x07 | 0x26 | 0x07 | 0x76
+
+*****************CABIN 7*****************
+Distance 1: 456
+Distance 2: 456
+Angle 1: 40
+Angle 2: 38
+0x22 | 0x07 | 0x22 | 0x07 | 0x68
+
+*****************CABIN 8*****************
+Distance 1: 455
+Distance 2: 456
+Angle 1: 38
+Angle 2: 40
+0x1e | 0x07 | 0x22 | 0x07 | 0x86
+
+*****************CABIN 9*****************
+Distance 1: 456
+Distance 2: 455
+Angle 1: 38
+Angle 2: 39
+0x22 | 0x07 | 0x1e | 0x07 | 0x76
+
+*****************CABIN 10*****************
+Distance 1: 455
+Distance 2: 455
+Angle 1: 38
+Angle 2: 37
+0x1e | 0x07 | 0x1e | 0x07 | 0x56
+
+*****************CABIN 11*****************
+Distance 1: 455
+Distance 2: 456
+Angle 1: 39
+Angle 2: 40
+0x1e | 0x07 | 0x22 | 0x07 | 0x87
+
+*****************CABIN 12*****************
+Distance 1: 456
+Distance 2: 456
+Angle 1: 40
+Angle 2: 38
+0x22 | 0x07 | 0x22 | 0x07 | 0x68
+
+*****************CABIN 13*****************
+Distance 1: 457
+Distance 2: 457
+Angle 1: 40
+Angle 2: 40
+0x26 | 0x07 | 0x26 | 0x07 | 0x88
+
+*****************CABIN 14*****************
+Distance 1: 457
+Distance 2: 0
+Angle 1: 40
+Angle 2: 0
+0x26 | 0x07 | 0x00 | 0x00 | 0x08
+
+*****************CABIN 15*****************
+Distance 1: 459
+Distance 2: 0
+Angle 1: 40
+Angle 2: 0
+0x2e | 0x07 | 0x00 | 0x00 | 0x08
+CheckSum: 138
+Data Verified!!!
+
+
+0xa | 0x5 | 169
+*****************Response Packet*****************
+Start angle (fix point number): 187
+start flag bit: 0
+Actual angle: 2.92
+0xbb | 0x0c
+
+*****************CABIN 0*****************
+Distance 1: 0
+Distance 2: 0
+Angle 1: 0
+Angle 2: 0
+0x00 | 0x00 | 0x00 | 0x00 | 0x00
+
+*****************CABIN 1*****************
+Distance 1: 0
+Distance 2: 0
+Angle 1: 0
+Angle 2: 0
+0x00 | 0x00 | 0x00 | 0x00 | 0x00
+
+*****************CABIN 2*****************
+Distance 1: 0
+Distance 2: 0
+Angle 1: 0
+Angle 2: 0
+0x00 | 0x00 | 0x00 | 0x00 | 0x00
+
+*****************CABIN 3*****************
+Distance 1: 0
+Distance 2: 0
+Angle 1: 0
+Angle 2: 0
+0x00 | 0x00 | 0x00 | 0x00 | 0x00
+
+*****************CABIN 4*****************
+Distance 1: 0
+Distance 2: 463
+Angle 1: 0
+Angle 2: 39
+0x00 | 0x00 | 0x3e | 0x07 | 0x70
+
+*****************CABIN 5*****************
+Distance 1: 0
+Distance 2: 0
+Angle 1: 0
+Angle 2: 0
+0x00 | 0x00 | 0x00 | 0x00 | 0x00
+
+*****************CABIN 6*****************
+Distance 1: 469
+Distance 2: 0
+Angle 1: 38
+Angle 2: 0
+0x56 | 0x07 | 0x00 | 0x00 | 0x06
+
+*****************CABIN 7*****************
+Distance 1: 0
+Distance 2: 0
+Angle 1: 0
+Angle 2: 0
+0x00 | 0x00 | 0x00 | 0x00 | 0x00
+
+*****************CABIN 8*****************
+Distance 1: 0
+Distance 2: 0
+Angle 1: 0
+Angle 2: 0
+0x00 | 0x00 | 0x00 | 0x00 | 0x00
+
+*****************CABIN 9*****************
+Distance 1: 0
+Distance 2: 0
+Angle 1: 0
+Angle 2: 0
+0x00 | 0x00 | 0x00 | 0x00 | 0x00
+
+*****************CABIN 10*****************
+Distance 1: 0
+Distance 2: 0
+Angle 1: 0
+Angle 2: 0
+0x00 | 0x00 | 0x00 | 0x00 | 0x00
+
+*****************CABIN 11*****************
+Distance 1: 0
+Distance 2: 0
+Angle 1: 0
+Angle 2: 0
+0x00 | 0x00 | 0x00 | 0x00 | 0x00
+
+*****************CABIN 12*****************
+Distance 1: 0
+Distance 2: 0
+Angle 1: 0
+Angle 2: 0
+0x00 | 0x00 | 0x00 | 0x00 | 0x00
+
+*****************CABIN 13*****************
+Distance 1: 0
+Distance 2: 0
+Angle 1: 0
+Angle 2: 0
+0x00 | 0x00 | 0x00 | 0x00 | 0x00
+
+*****************CABIN 14*****************
+Distance 1: 0
+Distance 2: 0
+Angle 1: 0
+Angle 2: 0
+0x00 | 0x00 | 0x00 | 0x00 | 0x00
+
+*****************CABIN 15*****************
+Distance 1: 0
+Distance 2: 0
+Angle 1: 0
+Angle 2: 0
+0x00 | 0x00 | 0x00 | 0x00 | 0x00
+CheckSum: 169
+Data Verified!!!
